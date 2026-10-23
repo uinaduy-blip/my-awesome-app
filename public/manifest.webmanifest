@@ -1,0 +1,17 @@
+{
+  "name": "المحامي باسل صطام الدندح",
+  "short_name": "باسل الدندح",
+  "description": "استشارات وتمثيل قانوني متكامل للشركات في الجمهورية العربية السورية — دمشق، شارع العابد.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3ece4",
+  "theme_color": "#233059",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
